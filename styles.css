@@ -1,1 +1,16 @@
 /* your code */
+#table{
+	border: 1px solid gray;
+}
+#eg1{
+	background-color: blue;
+	color: white;
+	border: 1px solid;
+}
+td{
+	width: 100px;
+	text-align: center;
+}
+td:first-child{
+	width: 150px
+}
